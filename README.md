@@ -59,7 +59,7 @@ https://docs.google.com/presentation/d/1OIJDNvcoEDuJCeSGipIy4YrRNlaxd546SrWxLWBv
 
 ## Visual:
 
-![](http://localhost:8888/view/Count_of_Ratings.png)
+![](https://github.com/J-Joseph524/Rec_System_Project_JJ_DC/blob/jason-joseph/Count_of_Ratings.png)
 
 
 
