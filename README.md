@@ -1,4 +1,4 @@
-# Rec_System_Project_JJ_DC
+# Rec_System_Project
 
 
 ## Introduction:
